@@ -1,7 +1,12 @@
 ### Hello World, I'm CG 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-sihcheeguan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sihcheeguan/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ninjakira)
 
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjakira&langs_count=5&theme=tokyonight)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ninjakira&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--
 **ninjakira/ninjakira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
