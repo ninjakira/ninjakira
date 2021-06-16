@@ -1,6 +1,7 @@
 ### Hello World, I'm CG 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-sihcheeguan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sihcheeguan/)
+[![Linkedin](https://img.shields.io/badge/-|%20sihcheeguan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sihcheeguan/)
+[![Kaggle](https://img.shields.io/badge/-|%20ninjakira-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ninjakira)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ninjakira)
 ---
 
@@ -8,16 +9,26 @@ I am a Data Analyst from Singapore working on the application of Machine Learnin
 
 ### &#x1F527; Languages & Tools
 ---
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+**Data Science:**
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a&labelColor=505050)
+![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a&labelColor=505050)
+![PostgreSQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a&labelColor=505050)
+![PyTorch](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a&labelColor=505050)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a&labelColor=505050)
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+**Shell & OS:**
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/><br/>
+![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a&labelColor=505050)
+![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=505050)
+
+**Web:**
+
+![jQuery](https://img.shields.io/badge/%20-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a&labelColor=505050)
+![JavaScript](https://img.shields.io/badge/%20-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a&labelColor=505050)
+![HTML5](https://img.shields.io/badge/%20-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a&labelColor=505050)
+![CSS3](https://img.shields.io/badge/%20-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a&labelColor=505050)
 
 ### &#x1F4C8; GitHub Stats 
 ---
