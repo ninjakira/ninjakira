@@ -23,6 +23,7 @@ I am a Data Analyst from Singapore working on the application of Machine Learnin
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a&labelColor=505050)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=505050)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a&labelColor=505050)
 
 **Web:**
 
