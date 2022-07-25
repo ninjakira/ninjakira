@@ -6,7 +6,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ninjakira)
 ---
 
-I am a Data Analyst from Singapore working on the application of Machine Learning and Blockchain technologies in FinTech.
+I am a Data Analyst from Singapore passiontate in the application of Machine Learning in NLP, Cybersecurity and FinTech.
+
+I speak 🇬🇧🇨🇳🇲🇾🇩🇪🇫🇷🇷🇺.
 
 ### &#x1F527; Languages & Tools
 ---
