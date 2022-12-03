@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
 Here I share my projects in Data Visualization, Machine Learning, NLP, Time Series Analysis and Crypto.
 
-I primarily programme in Python and Javascript. 
+I programme primarily in Python and Javascript. 
 
 I enjoy learning foreign languages and can converse in 🇬🇧, 🇨🇳, 🇲🇾, 🇩🇪, 🇫🇷 and 🇷🇺.
 
