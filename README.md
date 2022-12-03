@@ -18,8 +18,10 @@ I speak 🇬🇧🇨🇳🇲🇾🇩🇪🇫🇷🇷🇺.
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a&labelColor=505050)
 ![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a&labelColor=505050)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a&labelColor=505050)
-![PyTorch](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a&labelColor=505050)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a&labelColor=505050)
+
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a&labelColor=505050)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a&labelColor=505050)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a&labelColor=505050)](https://www.tensorflow.org/)
 
 **Shell & OS:**
 
