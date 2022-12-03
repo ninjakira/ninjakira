@@ -6,9 +6,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ninjakira)
 ---
 
-I am a Data Analyst from Singapore passiontate in the application of Machine Learning in NLP, Cybersecurity and FinTech.
+Welcome to my GitHub! 
 
-I speak 🇬🇧🇨🇳🇲🇾🇩🇪🇫🇷🇷🇺.
+Here I share my projects in Data Visualization, Machine Learning, NLP, Time Series Analysis and Crypto.
+
+I primarily programme in Python and Javascript. 
+
+I enjoy learning foreign languages and can converse in 🇬🇧, 🇨🇳, 🇲🇾, 🇩🇪, 🇫🇷 and 🇷🇺.
 
 ### &#x1F527; Languages & Tools
 ---
