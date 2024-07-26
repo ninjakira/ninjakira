@@ -8,11 +8,9 @@
 
 Welcome to my GitHub! 
 
-Here I share my projects in Data Visualization, Machine Learning, NLP, Time Series Analysis and Crypto.
+I am a Master in Data Science student at the Philipps-Universität Marburg. My research interests include Geospatial and Time Series Data Analysis, Data Engineering, MLOps and Explainable AI.
 
-I programme primarily in Python and Javascript. 
-
-I enjoy learning foreign languages and can converse in 🇬🇧, 🇨🇳, 🇲🇾, 🇩🇪, 🇫🇷 and 🇷🇺.
+For leisure, I enjoy dancing, hiking and learning foreign languages and can converse in 🇬🇧, 🇩🇪, 🇨🇳, 🇫🇷 and 🇲🇾.
 
 ### &#x1F527; Languages & Tools
 ---
