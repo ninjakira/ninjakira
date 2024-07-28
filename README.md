@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
 I am a Master in Data Science student at the Philipps-Universität Marburg. My research interests include Geospatial and Time Series Data Analysis, Data Engineering, MLOps and Explainable AI.
 
-For leisure, I enjoy dancing, hiking and learning foreign languages and can converse in :flag_gb:, :flag_de:, :flag_cn:, :flag_fr: and :flag_my:.
+For leisure, I enjoy dancing, hiking and learning foreign languages and can converse in 🇬🇧, 🇩🇪, 🇨🇳, 🇫🇷 and 🇲🇾.
 
 ### &#x1F527; Languages & Tools
 ---
