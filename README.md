@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-|%20sihcheeguan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sihcheeguan/)
 [![Kaggle](https://img.shields.io/badge/-|%20ninjakira-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ninjakira)
 [![Website](https://img.shields.io/badge/-|%20ninjakira.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://ninjakira.github.io)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ninjakira.visitor-badge)
 ---
 
 Welcome to my GitHub! 
