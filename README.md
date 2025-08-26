@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! 
 
-I am a Master in Data Science student at the Philipps-Universität Marburg. My research interests include Geospatial and Time Series Data Analysis, Data Engineering, MLOps and Explainable AI.
+I am a Master in Data Science student at the Philipps-Universität Marburg with research interest in Time Series Analysis, Forecasting and Computational Statistics.
 
 For leisure, I enjoy dancing, hiking and learning foreign languages and can converse in 🇬🇧, 🇩🇪, 🇨🇳, 🇫🇷 and 🇲🇾.
 
